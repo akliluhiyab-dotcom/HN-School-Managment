@@ -1,0 +1,6 @@
+{
+  "name": "School Registration Management System",
+  "description": "A secure and comprehensive school-themed administration system for student registrations, records, attendance, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
